@@ -1,1 +1,1 @@
-# -air-i5---CLOVER
+# xiaomi-air-i5CPU---CLOVER
